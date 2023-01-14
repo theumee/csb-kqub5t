@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://theumee.github.io/csb-kqub5t/static/css/main.1215c6a5.chunk.css",
+    "main.js": "https://theumee.github.io/csb-kqub5t/static/js/main.8dcf40e6.chunk.js",
+    "main.js.map": "https://theumee.github.io/csb-kqub5t/static/js/main.8dcf40e6.chunk.js.map",
+    "runtime-main.js": "https://theumee.github.io/csb-kqub5t/static/js/runtime-main.3257790e.js",
+    "runtime-main.js.map": "https://theumee.github.io/csb-kqub5t/static/js/runtime-main.3257790e.js.map",
+    "static/js/2.5fbb8b62.chunk.js": "https://theumee.github.io/csb-kqub5t/static/js/2.5fbb8b62.chunk.js",
+    "static/js/2.5fbb8b62.chunk.js.map": "https://theumee.github.io/csb-kqub5t/static/js/2.5fbb8b62.chunk.js.map",
+    "index.html": "https://theumee.github.io/csb-kqub5t/index.html",
+    "static/css/main.1215c6a5.chunk.css.map": "https://theumee.github.io/csb-kqub5t/static/css/main.1215c6a5.chunk.css.map",
+    "static/js/2.5fbb8b62.chunk.js.LICENSE.txt": "https://theumee.github.io/csb-kqub5t/static/js/2.5fbb8b62.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3257790e.js",
+    "static/js/2.5fbb8b62.chunk.js",
+    "static/css/main.1215c6a5.chunk.css",
+    "static/js/main.8dcf40e6.chunk.js"
+  ]
+}
